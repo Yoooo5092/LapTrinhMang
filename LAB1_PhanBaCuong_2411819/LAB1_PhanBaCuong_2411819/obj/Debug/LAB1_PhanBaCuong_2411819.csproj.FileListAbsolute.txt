@@ -1,0 +1,7 @@
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\obj\Debug\LAB1_PhanBaCuong_2411819.csproj.AssemblyReference.cache
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\obj\Debug\LAB1_PhanBaCuong_2411819.csproj.CoreCompileInputs.cache
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\bin\Debug\LAB1_PhanBaCuong_2411819.exe.config
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\bin\Debug\LAB1_PhanBaCuong_2411819.exe
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\bin\Debug\LAB1_PhanBaCuong_2411819.pdb
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\obj\Debug\LAB1_PhanBaCuong_2411819.exe
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\LAB1_PhanBaCuong_2411819\obj\Debug\LAB1_PhanBaCuong_2411819.pdb
