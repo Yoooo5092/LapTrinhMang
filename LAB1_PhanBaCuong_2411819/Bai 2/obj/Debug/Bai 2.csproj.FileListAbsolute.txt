@@ -1,0 +1,7 @@
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\bin\Debug\Bai 2.exe.config
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\bin\Debug\Bai 2.exe
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\bin\Debug\Bai 2.pdb
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\obj\Debug\Bai 2.csproj.AssemblyReference.cache
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\obj\Debug\Bai 2.csproj.CoreCompileInputs.cache
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\obj\Debug\Bai 2.exe
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 2\obj\Debug\Bai 2.pdb

@@ -1,0 +1,7 @@
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\bin\Debug\Bai 4.exe.config
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\bin\Debug\Bai 4.exe
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\bin\Debug\Bai 4.pdb
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\obj\Debug\Bai 4.csproj.AssemblyReference.cache
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\obj\Debug\Bai 4.csproj.CoreCompileInputs.cache
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\obj\Debug\Bai 4.exe
+D:\Personal\Lap trinh mang\LAB1_PhanBaCuong_2411819\Bai 4\obj\Debug\Bai 4.pdb
