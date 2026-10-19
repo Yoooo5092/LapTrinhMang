@@ -36,14 +36,17 @@ namespace Bai_1
 
                     while (true)
                     {
-                        string received = SocketReceive(clientSocket);
-                        if (received != null)
+                        try
                         {
+                            string received = SocketReceive(clientSocket);
+
                             Console.WriteLine(received);
 
                             SocketSend(clientSocket, clientEndPoint.ToString() + " noi " + received);
 
                         }
+                        catch (SocketException e) { Console.WriteLine("Client ngat ket noi");  break; }
+                        
                     }
                 }
             }
@@ -54,7 +57,7 @@ namespace Bai_1
             byte[] buffer = new byte[1024];
             int bytesReceived = socket.Receive(buffer, 0, buffer.Length, SocketFlags.None);
 
-            if (bytesReceived > 0) { return Encoding.ASCII.GetString(buffer); }
+            if (bytesReceived > 0) { return Encoding.ASCII.GetString(buffer, 0, bytesReceived); }
 
             else { return null; }
         }
