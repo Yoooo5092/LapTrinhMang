@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B364EA85-AF46-480F-8054-CE14DF7579FB}|Bai 1_Client\\Bai 1_Client.csproj|D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\bai 1_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364EA85-AF46-480F-8054-CE14DF7579FB}|Bai 1_Client\\Bai 1_Client.csproj|solutionrelative:bai 1_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B4B90-1756-4E89-9E80-7078BE6C1551}|Bai 1\\Bai 1.csproj|D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\bai 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188B4B90-1756-4E89-9E80-7078BE6C1551}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FC0114-A8C6-498A-A725-A87E9D17A809}|Bai 6_Client\\Bai 6_Client.csproj|d:\\personal\\lap trinh mang\\lab3_phanbacuong_2411819\\bai 6_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FC0114-A8C6-498A-A725-A87E9D17A809}|Bai 6_Client\\Bai 6_Client.csproj|solutionrelative:bai 6_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E38E37A-788D-43A3-A621-80A66FFF42F6}|Bai 5_Server\\Bai 5_Server.csproj|D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\bai 5_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E38E37A-788D-43A3-A621-80A66FFF42F6}|Bai 5_Server\\Bai 5_Server.csproj|solutionrelative:bai 5_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69ABD66A-E57B-4E50-8DC4-D7912A088CE0}|Bai 5_Client\\Bai 5_Client.csproj|D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\bai 5_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69ABD66A-E57B-4E50-8DC4-D7912A088CE0}|Bai 5_Client\\Bai 5_Client.csproj|solutionrelative:bai 5_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803227A6-0C50-4340-84B7-0FE22969DB25}|Bai 4_Client\\Bai 4_Client.csproj|D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\bai 4_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803227A6-0C50-4340-84B7-0FE22969DB25}|Bai 4_Client\\Bai 4_Client.csproj|solutionrelative:bai 4_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 6_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 6_Client\\Program.cs",
+              "ToolTip": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 6_Client\\Program.cs",
+              "RelativeToolTip": "Bai 6_Client\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:12:40.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 5_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 5_Client\\Program.cs",
+              "ToolTip": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 5_Client\\Program.cs",
+              "RelativeToolTip": "Bai 5_Client\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T13:24:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 5_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 5_Server\\Program.cs",
+              "ToolTip": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 5_Server\\Program.cs",
+              "RelativeToolTip": "Bai 5_Server\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T13:14:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 4_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 4_Client\\Program.cs",
+              "ToolTip": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 4_Client\\Program.cs",
+              "RelativeToolTip": "Bai 4_Client\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:24:38.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 1_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 1_Client\\Program.cs",
+              "ToolTip": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 1_Client\\Program.cs",
+              "RelativeToolTip": "Bai 1_Client\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:53:53.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Program.cs",
+              "ToolTip": "D:\\Personal\\Lap trinh mang\\LAB3_PhanBaCuong_2411819\\Bai 1\\Program.cs",
+              "RelativeToolTip": "Bai 1\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:51:07.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

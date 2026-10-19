@@ -1,0 +1,7 @@
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\bin\Debug\Bai 5_Server.exe.config
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\bin\Debug\Bai 5_Server.exe
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\bin\Debug\Bai 5_Server.pdb
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\obj\Debug\Bai 5_Server.csproj.AssemblyReference.cache
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\obj\Debug\Bai 5_Server.csproj.CoreCompileInputs.cache
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\obj\Debug\Bai 5_Server.exe
+D:\Personal\Lap trinh mang\LAB3_PhanBaCuong_2411819\Bai 5_Server\obj\Debug\Bai 5_Server.pdb
